@@ -79,22 +79,8 @@
             <artifactId>lombok</artifactId>
             <version>1.18.20</version>
         </dependency>
-        
-               
-  <!-- https://mvnrepository.com/artifact/net.serenity-bdd/serenity-jira-plugin -->
-<dependency>
-    <groupId>net.serenity-bdd</groupId>
-    <artifactId>serenity-jira-plugin</artifactId>
-    <version>1.12.0</version>
-</dependency>
-    <!-- https://mvnrepository.com/artifact/net.rcarz/jira-client -->
-        <dependency>
-            <groupId>net.rcarz</groupId>
-            <artifactId>jira-client</artifactId>
-            <version>0.5</version>
-        </dependency>
- 
-        
+                      
+         
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
